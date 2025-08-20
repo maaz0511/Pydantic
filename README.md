@@ -71,9 +71,9 @@ pip install "pydantic[email]"
 
 ## 📖 References
 
-* [Pydantic Documentation](https://docs.pydantic.dev)
 * [CampusX Tutorial (YouTube)](https://youtu.be/lRArylZCeOs?si=6LigIPFstzCYvc_y)
 
 ---
 
 ✨ Created by **Mohd Maaz**
+
